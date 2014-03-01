@@ -55,6 +55,6 @@ public class LineaFactura {
 		float total = this.precio * this.cantidad;
 		return total;
 	}
-
+//nueva linea
 }
-//cambio1.1
+//cambio1.2
